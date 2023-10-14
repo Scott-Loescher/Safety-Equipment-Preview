@@ -1,0 +1,149 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest identifier="_5ihSlEPQ6vl" version="1.0" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+    <lom xmlns="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd">
+      <general>
+        <title>
+          <langstring xml:lang="x-none">Safety Equipment Preview</langstring>
+        </title>
+        <description>
+          <langstring xml:lang="x-none">Preview of the safety equiment e-learning module for the HEMAA instructor certification program</langstring>
+        </description>
+      </general>
+      <lifecycle>
+        <version>
+          <langstring xml:lang="x-none">1</langstring>
+        </version>
+        <status>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">Final</langstring>
+          </value>
+        </status>
+      </lifecycle>
+      <metametadata>
+        <metadatascheme>ADL SCORM 1.2</metadatascheme>
+      </metametadata>
+      <educational>
+        <typicallearningtime>
+          <datetime>PT0H0M0S</datetime>
+        </typicallearningtime>
+      </educational>
+      <rights>
+        <cost>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </cost>
+        <copyrightandotherrestrictions>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </copyrightandotherrestrictions>
+      </rights>
+    </lom>
+  </metadata>
+  <organizations default="Safety_Equipment_Preview_ORG">
+    <organization identifier="Safety_Equipment_Preview_ORG">
+      <title>Safety Equipment Preview</title>
+      <item identifier="Safety_Equipment_vs_4_(working_prototype_2_slide_design)_SCO" isvisible="true" identifierref="__5ihSlEPQ6vl_RES">
+        <title>Safety Equipment Preview</title>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="__5ihSlEPQ6vl_RES" type="webcontent" href="index_lms.html" adlcp:scormtype="sco">
+      <file href="story_content/thumbnail.jpg" />
+      <file href="mobile/6r5ocnimpKO.png" />
+      <file href="mobile/6FJpiz1TZgh.png" />
+      <file href="mobile/5d9XF4fb3WK.png" />
+      <file href="mobile/5h2vtJIe4VW.png" />
+      <file href="mobile/6ZlRCgBy0ka.png" />
+      <file href="mobile/6P2hy68BpoV.png" />
+      <file href="mobile/5u6GpBemrqM.png" />
+      <file href="mobile/6OC4sLU5RaD.png" />
+      <file href="mobile/6J9ufPqnzSU_P_63_66_407_357.png" />
+      <file href="mobile/6S2e4analDc.png" />
+      <file href="mobile/6DZqQ9eqwMA.png" />
+      <file href="mobile/6197vtbycVN.png" />
+      <file href="mobile/639UEtPUd19.png" />
+      <file href="mobile/6GadMKSyzs0.png" />
+      <file href="mobile/5fca9mOBtYV_X.png" />
+      <file href="mobile/5ocd3Rn7Fmc.png" />
+      <file href="mobile/5rhmVXRFpES.png" />
+      <file href="mobile/6r5ocnimpKO_C30_RFF0000.png" />
+      <file href="mobile/5ocd3Rn7Fmc_C30_RFF0000.png" />
+      <file href="mobile/5fca9mOBtYV_X_C30_RFF0000.png" />
+      <file href="mobile/6GadMKSyzs0_C30_RFF0000.png" />
+      <file href="mobile/639UEtPUd19_C30_RFF0000.png" />
+      <file href="mobile/6197vtbycVN_C30_RFF0000.png" />
+      <file href="mobile/6DZqQ9eqwMA_C30_RFF0000.png" />
+      <file href="mobile/6S2e4analDc_C30_RFF0000.png" />
+      <file href="mobile/6J9ufPqnzSU_C30_RFF0000_P_63_66_407_357.png" />
+      <file href="mobile/6OC4sLU5RaD_C30_RFF0000.png" />
+      <file href="mobile/6P2hy68BpoV_C30_RFF0000.png" />
+      <file href="mobile/5u6GpBemrqM_C30_RFF0000.png" />
+      <file href="mobile/6ZlRCgBy0ka_C30_RFF0000.png" />
+      <file href="mobile/5h2vtJIe4VW_C30_RFF0000.png" />
+      <file href="mobile/5d9XF4fb3WK_C30_RFF0000.png" />
+      <file href="mobile/6FJpiz1TZgh_C30_RFF0000.png" />
+      <file href="mobile/6r5ocnimpKO_C30_R00AAFF.png" />
+      <file href="mobile/6FJpiz1TZgh_C30_R00AAFF.png" />
+      <file href="mobile/5d9XF4fb3WK_C30_R00AAFF.png" />
+      <file href="mobile/5h2vtJIe4VW_C30_R00AAFF.png" />
+      <file href="mobile/6ZlRCgBy0ka_C30_R00AAFF.png" />
+      <file href="mobile/5u6GpBemrqM_C30_R00AAFF.png" />
+      <file href="mobile/6P2hy68BpoV_C30_R00AAFF.png" />
+      <file href="mobile/6OC4sLU5RaD_C30_R00AAFF.png" />
+      <file href="mobile/6J9ufPqnzSU_C30_R00AAFF_P_63_66_407_357.png" />
+      <file href="mobile/6S2e4analDc_C30_R00AAFF.png" />
+      <file href="mobile/6DZqQ9eqwMA_C30_R00AAFF.png" />
+      <file href="mobile/6197vtbycVN_C30_R00AAFF.png" />
+      <file href="mobile/639UEtPUd19_C30_R00AAFF.png" />
+      <file href="mobile/6GadMKSyzs0_C30_R00AAFF.png" />
+      <file href="mobile/5fca9mOBtYV_X_C30_R00AAFF.png" />
+      <file href="mobile/5ocd3Rn7Fmc_C30_R00AAFF.png" />
+      <file href="meta.xml" />
+      <file href="mobile/6R10QmaX81P.png" />
+      <file href="story_content/user.js" />
+      <file href="mobile/Slide5bOl0sCmayt.jpg" />
+      <file href="mobile/Slide63OF2WqDy9I.jpg" />
+      <file href="mobile/Slide5V16MnVsQ52.jpg" />
+      <file href="html5/data/css/output.min.css" />
+      <file href="html5/data/js/61qQoqblpxp.js" />
+      <file href="html5/data/js/6bBkq0gamR0.js" />
+      <file href="html5/data/js/6rI7z0Aylu1.js" />
+      <file href="html5/data/js/data.js" />
+      <file href="html5/data/js/frame.js" />
+      <file href="html5/data/js/paths.js" />
+      <file href="html5/lib/hls/hls.min.js" />
+      <file href="html5/lib/scripts/bootstrapper.min.js" />
+      <file href="html5/lib/scripts/frame.desktop.min.js" />
+      <file href="html5/lib/scripts/frame.mobile.min.js" />
+      <file href="html5/lib/scripts/slides.min.js" />
+      <file href="html5/lib/stylesheets/desktop.min.css" />
+      <file href="html5/lib/stylesheets/mobile.min.css" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-bold.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-light.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-regular.woff" />
+      <file href="analytics-frame.html" />
+      <file href="story.html" />
+      <file href="index_lms.html" />
+      <file href="lms/AICCComm.html" />
+      <file href="lms/blank.html" />
+      <file href="lms/browsersniff.js" />
+      <file href="lms/goodbye.html" />
+      <file href="lms/scormdriver.js" />
+    </resource>
+  </resources>
+</manifest>
